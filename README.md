@@ -2,6 +2,8 @@
 
 一个全面的待产准备参考指南，帮助准父母系统化地准备迎接新生命。
 
+> ⚠️ 本指南仅供参考，不能替代专业医疗建议，详见[免责声明](#免责声明)。
+
 ## 概述
 
 这个 Skill 提供了从孕晚期到产后恢复的完整流程指导，包括：
@@ -173,6 +175,25 @@
 - [Grok Bot 中文攻略](https://aipmandy.github.io/grok-bot-handbook/)：AI Agent 中文教程
 
 <!-- andy-author-card:end -->
+
+## 免责声明
+
+MEDICAL DISCLAIMER
+
+This software provides general information about pregnancy preparation and
+is intended for educational purposes only. It is not a substitute for
+professional medical advice, diagnosis, or treatment.
+
+Always seek the advice of your physician or other qualified health provider
+with any questions you may have regarding a medical condition. Never disregard
+professional medical advice or delay in seeking it because of something you
+have read in this software.
+
+If you think you may have a medical emergency, call your doctor or emergency
+services immediately.
+
+The authors and contributors of this software do not assume any liability
+for actions taken based on the information provided herein.
 
 ## 许可证
 
